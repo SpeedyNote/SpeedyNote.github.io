@@ -2,7 +2,7 @@
 
 # 配置克隆文件名
 
-BASE_URL=https://speedynote.org
+BASE_URL=https://www.speedynote.org
 WINDOWS=SpeedyNoteInstaller_Beta_0.11.1_amd64.exe
 WINDOWS_I386=SpeedyNoteInstaller_Beta_0.10.3_Qt5_i686.exe
 WINDOWS_ARM=SpeedyNoteInstaller_Beta_0.10.5-2_arm64.exe
