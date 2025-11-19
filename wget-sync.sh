@@ -1,4 +1,4 @@
-#! /bin/bash -e
+#!/bin/bash -e
 
 # 配置克隆文件名
 
@@ -28,7 +28,7 @@ wget \
   --user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" \
   $BASE_URL
 
-mv speedynote.org docs
+mv www.speedynote.org docs
 
 cd docs
 
